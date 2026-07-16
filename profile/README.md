@@ -1,7 +1,7 @@
 # oqlos
 
 [![Organization](https://img.shields.io/badge/GitHub-oqlos-black.svg)](https://github.com/oqlos)
-[![Projects](https://img.shields.io/badge/projects-20-blue.svg)](https://github.com/oqlos?tab=repositories)
+[![Projects](https://img.shields.io/badge/projects-21-blue.svg)](https://github.com/oqlos?tab=repositories)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 OQL/DOQL quality and compliance automation for web and lab systems.
@@ -14,6 +14,7 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 
 | Projekt | Opis | Język |
 |---------|------|-------|
+| [backend-shared-py](https://oqlos.github.io/backend-shared-py/) | Shared Python backend library (CQRS bus, ws manager, logs query, health) — reused by c2004 and oqlos | Python |
 | [cql](https://oqlos.github.io/cql/) | Cql | TypeScript |
 | [oql](https://oqlos.github.io/oql/) | OQL CLI — command line interface for OqlOS | HTML |
 | [oqlos](https://oqlos.github.io/oqlos/) | OqlOS — Operation Query Language runtime for hardware testing | Python |
@@ -48,7 +49,7 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 
 ## Statystyki
 
-- **Łącznie projektów**: 19
+- **Łącznie projektów**: 20
 - **Strony projektów**: `https://oqlos.github.io/<repo>/`
 
 _Ostatnia aktualizacja: 2026-07-16_
