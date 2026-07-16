@@ -15,7 +15,7 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 | Projekt | Opis | Język |
 |---------|------|-------|
 | [backend-shared-py](https://oqlos.github.io/backend-shared-py/) | Reusable shared backend library for C2004 services | Python |
-| [connect-scenario](https://oqlos.github.io/connect-scenario/) | Connect Scenario | Python |
+| [connect-scenario](https://oqlos.github.io/connect-scenario/) | Connect Scenario | HTML |
 | [cql](https://oqlos.github.io/cql/) | Cql | TypeScript |
 | [oql](https://oqlos.github.io/oql/) | OQL CLI — command line interface for OqlOS | HTML |
 | [oql-scenario](https://oqlos.github.io/oql-scenario/) | Canonical OQL scenario store + read-mostly HTTP API (single source for c2004 and oqlos) | Python |
