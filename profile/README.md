@@ -17,7 +17,7 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 | [cql](https://oqlos.github.io/cql/) | Cql | TypeScript |
 | [oql](https://oqlos.github.io/oql/) | OQL CLI — command line interface for OqlOS | HTML |
 | [oqlos](https://oqlos.github.io/oqlos/) | OqlOS — Operation Query Language runtime for hardware testing | Python |
-| [oqlts](https://oqlos.github.io/oqlts/) | OQL TypeScript runtime | TypeScript |
+| [oqlts](https://oqlos.github.io/oqlts/) | OQL TypeScript runtime — parser, validator, simulator, migrate (reusable across c2004, oqlos, cql) | TypeScript |
 | [piadc](https://oqlos.github.io/piadc/) | ADS1115 ADC Web Panel, REST API, WebSocket API and CLI for Raspberry Pi | Python |
 | [pimodbus](https://oqlos.github.io/pimodbus/) | Pimodbus | Python |
 | [pirtc](https://oqlos.github.io/pirtc/) | Raspberry Pi RTC & WatchDog Management Package | Python |
@@ -27,7 +27,7 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 | [rpi-motor-TB6560](https://oqlos.github.io/rpi-motor-TB6560/) | Rpi Motor Tb6560 | Python |
 | [rpi-motor-TB6600](https://oqlos.github.io/rpi-motor-TB6600/) | Rpi Motor Tb6600 | Python |
 | [rpi-motor-tic249](https://oqlos.github.io/rpi-motor-tic249/) | Sterowanie silnikiem krokowym bipolarnym przez Pololu Tic T249 z obsługą wyłączników krańcowych i procedury homing | Python |
-| [scenarios](https://oqlos.github.io/scenarios/) | Canonical OQL scenario store + HTTP API (single source for c2004 and oqlos) | Python |
+| [scenarios](https://oqlos.github.io/scenarios/) | Canonical OQL scenario store + read-mostly HTTP API (single source for c2004 and oqlos) | Python |
 | [vql](https://oqlos.github.io/vql/) | VQL — Visual Query Language for vector description of photographs and drawings | Python |
 | [weboql](https://oqlos.github.io/weboql/) | WebOQL — Web-based OQL scenario editor and executor | HTML |
 | [www](https://oqlos.github.io/www/) | OqlOS Portal - React/Vite frontend | JavaScript |
