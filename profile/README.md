@@ -1,7 +1,7 @@
 # oqlos
 
 [![Organization](https://img.shields.io/badge/GitHub-oqlos-black.svg)](https://github.com/oqlos)
-[![Projects](https://img.shields.io/badge/projects-25-blue.svg)](https://github.com/oqlos?tab=repositories)
+[![Projects](https://img.shields.io/badge/projects-26-blue.svg)](https://github.com/oqlos?tab=repositories)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 OQL/DOQL quality and compliance automation for web and lab systems.
@@ -22,6 +22,7 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 | [oqlos](https://oqlos.github.io/oqlos/) | OqlOS — Operation Query Language runtime for hardware testing | Python |
 | [oqlts](https://oqlos.github.io/oqlts/) | OQL TypeScript runtime — parser, validator, simulator, migrate (reusable across c2004, oqlos, cql) | TypeScript |
 | [piadc](https://oqlos.github.io/piadc/) | ADS1115 ADC Web Panel, REST API, WebSocket API and CLI for Raspberry Pi | Python |
+| [pilcd](https://oqlos.github.io/pilcd/) | Pilcd | — |
 | [pimodbus](https://oqlos.github.io/pimodbus/) | Shared Modbus RTU helpers for Waveshare IO and analog input modules | Python |
 | [pirtc](https://oqlos.github.io/pirtc/) | Raspberry Pi RTC & WatchDog Management Package | Python |
 | [rpi-brushless](https://oqlos.github.io/rpi-brushless/) | Rpi Brushless | HTML |
@@ -53,7 +54,7 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 
 ## Statystyki
 
-- **Łącznie projektów**: 24
+- **Łącznie projektów**: 25
 - **Strony projektów**: `https://oqlos.github.io/<repo>/`
 
 _Ostatnia aktualizacja: 2026-07-17_
