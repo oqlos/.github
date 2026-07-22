@@ -34,8 +34,8 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 | [rpi-motor-TB6600](https://oqlos.github.io/rpi-motor-TB6600/) | Rpi Motor Tb6600 | Python |
 | [rpi-motor-tic249](https://oqlos.github.io/rpi-motor-tic249/) | Sterowanie silnikiem krokowym bipolarnym przez Pololu Tic T249 z obsługą wyłączników krańcowych i procedury homing | Python |
 | [ts-utils](https://oqlos.github.io/ts-utils/) | Ts Utils | TypeScript |
-| [usb-adc-dfr1184](https://oqlos.github.io/usb-adc-dfr1184/) | DFRobot DFR1184 dual-channel 0-10 V UART ADC adapter for Raspberry Pi and OqlOS | Python |
-| [usb-adc-mcp2221](https://oqlos.github.io/usb-adc-mcp2221/) | MCP2221A USB GPIO/ADC/I2C adapter and read-only API for OqlOS | Python |
+| [usb-adc-dfr1184](https://oqlos.github.io/usb-adc-dfr1184/) | DFRobot DFR1184 0-10 V UART ADC adapter for Raspberry Pi 3 and OqlOS | Python |
+| [usb-adc-mcp2221](https://oqlos.github.io/usb-adc-mcp2221/) | Typed MCP2221A USB GPIO/ADC/DAC/I2C adapter for OqlOS | Python |
 | [vql](https://oqlos.github.io/vql/) | VQL — Visual Query Language for vector description of photographs and drawings | Python |
 | [weboql](https://oqlos.github.io/weboql/) | WebOQL — Web-based OQL scenario editor and executor | HTML |
 | [www](https://oqlos.github.io/www/) | OqlOS Portal - React/Vite frontend | JavaScript |
