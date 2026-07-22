@@ -1,7 +1,7 @@
 # oqlos
 
 [![Organization](https://img.shields.io/badge/GitHub-oqlos-black.svg)](https://github.com/oqlos)
-[![Projects](https://img.shields.io/badge/projects-26-blue.svg)](https://github.com/oqlos?tab=repositories)
+[![Projects](https://img.shields.io/badge/projects-28-blue.svg)](https://github.com/oqlos?tab=repositories)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 OQL/DOQL quality and compliance automation for web and lab systems.
@@ -34,6 +34,8 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 | [rpi-motor-TB6600](https://oqlos.github.io/rpi-motor-TB6600/) | Rpi Motor Tb6600 | Python |
 | [rpi-motor-tic249](https://oqlos.github.io/rpi-motor-tic249/) | Sterowanie silnikiem krokowym bipolarnym przez Pololu Tic T249 z obsługą wyłączników krańcowych i procedury homing | Python |
 | [ts-utils](https://oqlos.github.io/ts-utils/) | Ts Utils | TypeScript |
+| [usb-adc-dfr1184](https://oqlos.github.io/usb-adc-dfr1184/) | DFRobot DFR1184 dual-channel 0-10 V UART ADC adapter for Raspberry Pi and OqlOS | Python |
+| [usb-adc-mcp2221](https://oqlos.github.io/usb-adc-mcp2221/) | MCP2221A USB GPIO/ADC/I2C adapter and read-only API for OqlOS | Python |
 | [vql](https://oqlos.github.io/vql/) | VQL — Visual Query Language for vector description of photographs and drawings | Python |
 | [weboql](https://oqlos.github.io/weboql/) | WebOQL — Web-based OQL scenario editor and executor | HTML |
 | [www](https://oqlos.github.io/www/) | OqlOS Portal - React/Vite frontend | JavaScript |
@@ -54,7 +56,7 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 
 ## Statystyki
 
-- **Łącznie projektów**: 25
+- **Łącznie projektów**: 27
 - **Strony projektów**: `https://oqlos.github.io/<repo>/`
 
 _Ostatnia aktualizacja: 2026-07-22_
