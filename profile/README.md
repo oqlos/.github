@@ -59,4 +59,4 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 - **Łącznie projektów**: 27
 - **Strony projektów**: `https://oqlos.github.io/<repo>/`
 
-_Ostatnia aktualizacja: 2026-07-23_
+_Ostatnia aktualizacja: 2026-07-24_
