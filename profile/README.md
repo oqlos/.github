@@ -1,7 +1,7 @@
 # oqlos
 
 [![Organization](https://img.shields.io/badge/GitHub-oqlos-black.svg)](https://github.com/oqlos)
-[![Projects](https://img.shields.io/badge/projects-28-blue.svg)](https://github.com/oqlos?tab=repositories)
+[![Projects](https://img.shields.io/badge/projects-21-blue.svg)](https://github.com/oqlos?tab=repositories)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 OQL/DOQL quality and compliance automation for web and lab systems.
@@ -16,11 +16,8 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 |---------|------|-------|
 | [backend-shared-py](https://oqlos.github.io/backend-shared-py/) | Reusable shared backend library for C2004 services | Python |
 | [connect-scenario](https://oqlos.github.io/connect-scenario/) | Connect Scenario | HTML |
-| [cql](https://oqlos.github.io/cql/) | Cql | HTML |
-| [oql](https://oqlos.github.io/oql/) | OQL CLI — command line interface for OqlOS | HTML |
 | [oql-scenario](https://oqlos.github.io/oql-scenario/) | Canonical OQL scenario store + read-mostly HTTP API (single source for c2004 and oqlos) | Python |
 | [oqlos](https://oqlos.github.io/oqlos/) | OqlOS — Operation Query Language runtime for hardware testing | Python |
-| [oqlts](https://oqlos.github.io/oqlts/) | OQL TypeScript runtime — parser, validator, simulator, migrate (reusable across c2004, oqlos, cql) | TypeScript |
 | [piadc](https://oqlos.github.io/piadc/) | ADS1115 ADC Web Panel, REST API, WebSocket API and CLI for Raspberry Pi | Python |
 | [pilcd](https://oqlos.github.io/pilcd/) | Pilcd | — |
 | [pimodbus](https://oqlos.github.io/pimodbus/) | Shared Modbus RTU helpers for Waveshare IO and analog input modules | Python |
@@ -36,27 +33,13 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 | [ts-utils](https://oqlos.github.io/ts-utils/) | Ts Utils | TypeScript |
 | [usb-adc-dfr1184](https://oqlos.github.io/usb-adc-dfr1184/) | DFRobot DFR1184 0-10 V UART ADC adapter for Raspberry Pi 3 and OqlOS | Python |
 | [usb-adc-mcp2221](https://oqlos.github.io/usb-adc-mcp2221/) | Typed MCP2221A USB GPIO/ADC/DAC/I2C adapter for OqlOS | Python |
-| [vql](https://oqlos.github.io/vql/) | VQL — Visual Query Language for vector description of photographs and drawings | Python |
-| [weboql](https://oqlos.github.io/weboql/) | WebOQL — Web-based OQL scenario editor and executor | HTML |
-| [www](https://oqlos.github.io/www/) | OqlOS Portal - React/Vite frontend | JavaScript |
-
-### Quality
-
-| Projekt | Opis | Język |
-|---------|------|-------|
-| [doql](https://oqlos.github.io/doql/) | Declarative OQL — build complete applications from a single .doql file | Python |
-
-### Testing
-
-| Projekt | Opis | Język |
-|---------|------|-------|
-| [testql](https://oqlos.github.io/testql/) | TestQL — Multi-DSL Test Platform: TestTOON / NL / SQL / Proto / GraphQL adapters with Unified IR, generator engine, and meta-testing | Python |
+| [www](https://oqlos.github.io/www/) | Www | PHP |
 
 ---
 
 ## Statystyki
 
-- **Łącznie projektów**: 27
+- **Łącznie projektów**: 20
 - **Strony projektów**: `https://oqlos.github.io/<repo>/`
 
-_Ostatnia aktualizacja: 2026-08-14_
+_Ostatnia aktualizacja: 2026-08-16_
