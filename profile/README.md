@@ -27,7 +27,7 @@ OQL/DOQL quality and compliance automation for web and lab systems.
 | [rpi-motor-arm69ak](https://oqlos.github.io/rpi-motor-arm69ak/) | Rpi Motor Arm69Ak | — |
 | [rpi-motor-DRI0050](https://oqlos.github.io/rpi-motor-DRI0050/) | Python driver for DFRobot DRI0050 PWM Motor & LED Controller (MODBUS RTU) | Python |
 | [rpi-motor-hat](https://oqlos.github.io/rpi-motor-hat/) | Rpi Motor Hat | Python |
-| [rpi-motor-TB6560](https://oqlos.github.io/rpi-motor-TB6560/) | Rpi Motor Tb6560 | Python |
+| [rpi-motor-TB6560](https://oqlos.github.io/rpi-motor-TB6560/) | Rpi Motor Tb6560 | HTML |
 | [rpi-motor-TB6600](https://oqlos.github.io/rpi-motor-TB6600/) | Rpi Motor Tb6600 | Python |
 | [rpi-motor-tic249](https://oqlos.github.io/rpi-motor-tic249/) | Sterowanie silnikiem krokowym bipolarnym przez Pololu Tic T249 z obsługą wyłączników krańcowych i procedury homing | Python |
 | [ts-utils](https://oqlos.github.io/ts-utils/) | Ts Utils | TypeScript |
